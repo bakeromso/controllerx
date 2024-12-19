@@ -48,7 +48,7 @@ You can proceed to install ControllerX either manually or through HACS in the `/
 
 ### HACS
 
-The easiest way to add this to your Home Assistant installation is using HACS with `Enable AppDaemon apps discovery & tracking` checked. If you don't have it enabled, go to `Configuration > Integrations > HACS (Options)`. You will find ControllerX in the `Automation` section on HACS. This will automatically add ControllerX in `/homeassistant/appdaemon/apps/`, and updates will be tracked by HACS and update within the same folder.
+The easiest way to add this to your Home Assistant installation is using HACS with `Enable AppDaemon apps discovery & tracking` checked. If you don't have it enabled, go to Home Assistant `Settings > Devices & services > Integrations > HACS > Configure`. You will find ControllerX in HACS by searching for `🎮 ControllerX`. Installing through HACS will automatically add ControllerX in `/homeassistant/appdaemon/apps/`, and updates will be tracked by HACS and update within the same folder.
 
 ### Manual
 
